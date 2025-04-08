@@ -199,12 +199,12 @@ function RW_FSBaseMission:onStartMission()
     if g_modIsLoaded["FS25_RealisticLivestock"] then RW_Weather.isRealisticLivestockLoaded = true end
     if g_modIsLoaded["FS25_ExtendedGameInfoDisplay"] then RW_GameInfoDisplay.isExtendedGameInfoDisplayLoaded = true end
 
-    local realisticWeatherFrame = RealisticWeatherFrame.new() 
-	g_gui:loadGui(modDirectory .. "gui/RealisticWeatherFrame.xml", "RealisticWeatherFrame", realisticWeatherFrame, true)
+    --local realisticWeatherFrame = RealisticWeatherFrame.new() 
+	--g_gui:loadGui(modDirectory .. "gui/RealisticWeatherFrame.xml", "RealisticWeatherFrame", realisticWeatherFrame, true)
 
-    fixInGameMenu(realisticWeatherFrame, "realisticWeatherFrame", {260,0,256,256}, 4, function() return true end)
+    --fixInGameMenu(realisticWeatherFrame, "realisticWeatherFrame", {260,0,256,256}, 4, function() return true end)
 
-    realisticWeatherFrame:initialize()
+    --realisticWeatherFrame:initialize()
 
     MoistureArgumentsDialog.register()
 

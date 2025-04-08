@@ -313,7 +313,7 @@ Journal des modifications :
         <sourceFile filename="src/gui/hud/RW_InfoDisplayKeyValueBox.lua"/>
         <sourceFile filename="src/gui/InGameMenuSettingsFrame.lua"/>
         <sourceFile filename="src/gui/MoistureArgumentsDialog.lua"/>
-        <sourceFile filename="src/gui/RealisticWeatherFrame.lua"/>
+        <!--sourceFile filename="src/gui/RealisticWeatherFrame.lua"/-->
         <sourceFile filename="src/missions/field/HarvestMission.lua"/>
         <sourceFile filename="src/player/PlayerHUDUpdater.lua"/>
         <sourceFile filename="src/player/PlayerInputComponent.lua"/>
