@@ -26,20 +26,20 @@
 		<text name="rw_ui_yes" text="Ano"/>
 		<text name="rw_ui_no" text="Ne"/>
 
-        <text name="input_Irrigation" text="Zavlažování"/>
-        <text name="finance_irrigationUpkeep" text="Zavlažování"/>
-        <text name="rw_ui_irrigation_start" text="Zahájit zavlažování"/>
-        <text name="rw_ui_irrigation_stop" text="Zastavit zavlažování"/>
-        <text name="rw_ui_pendingIrrigationCost" text="Náklady na zavlažování"/>
-        <text name="rw_ui_irrigationUpkeep" text="Údržba zavlažování"/>
+       		<text name="input_Irrigation" text="Zavlažování"/>
+        	<text name="finance_irrigationUpkeep" text="Zavlažování"/>
+        	<text name="rw_ui_irrigation_start" text="Zahájit zavlažování"/>
+        	<text name="rw_ui_irrigation_stop" text="Zastavit zavlažování"/>
+        	<text name="rw_ui_pendingIrrigationCost" text="Náklady na zavlažování"/>
+        	<text name="rw_ui_irrigationUpkeep" text="Údržba zavlažování"/>
 		<text name="rw_ui_inactive" text="Neaktivní"/>
 		<text name="rw_ui_active" text="Aktivní"/>
 
-		<text name="rw_ui_today" text="Today"/>
-		<text name="rw_ui_cellWidth" text="Cell Width"/>
-		<text name="rw_ui_cellHeight" text="Cell Height"/>
-		<text name="rw_ui_ownedFields" text="Owned Fields"/>
-		<text name="rw_ui_allFields" text="All Fields"/>
+		<text name="rw_ui_today" text="Dnes"/>
+		<text name="rw_ui_cellWidth" text="Šířka buňky"/>
+		<text name="rw_ui_cellHeight" text="Výška buňky"/>
+		<text name="rw_ui_ownedFields" text="Vlastněná pole"/>
+		<text name="rw_ui_allFields" text="Všechna pole"/>
 
 
 
@@ -85,13 +85,13 @@
 		<text name="rw_settings_moistureFrameBehaviour_texts_1" text="Podrobné informace"/>
 		<text name="rw_settings_moistureFrameBehaviour_texts_2" text="Omezený"/>
 
-		<text name="rw_settings_blizzardsEnabled_label" text="Blizzards"/>
-		<text name="rw_settings_blizzardsEnabled_tooltip_1" text="Blizzards are disabled"/>
-		<text name="rw_settings_blizzardsEnabled_tooltip_2" text="Blizzards are enabled"/>
+		<text name="rw_settings_blizzardsEnabled_label" text="Blizzardy"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_1" text="Blizzardy jsou vypnuté"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_2" text="Blizzardy jsou zapnuté"/>
 
-		<text name="rw_settings_droughtsEnabled_label" text="Droughts"/>
-		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Droughts are disabled"/>
-		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Droughts are enabled"/>
+		<text name="rw_settings_droughtsEnabled_label" text="Sucha"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Sucha jsou vypnuta"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Sucha jsou zapnuta"/>
 		
 	</texts>
 </l10n>
