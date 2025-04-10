@@ -1,0 +1,86 @@
+<l10n>
+  <translationContributors>Kalderone</translationContributors>
+	<texts>
+		<text name="rw_ui_fog" text="Густий туман"/>
+		<text name="rw_ui_hour" text="протягом %s години" tag="format"/>
+		<text name="rw_ui_hours" text="протягом %s годин" tag="format"/>
+		<text name="rw_ui_minute" text="протягом %s хвилини" tag="format"/>
+		<text name="rw_ui_minutes" text="протягом %s хвилин" tag="format"/>
+		<text name="rw_ui_aboutToWither" text="Поле %s от-от засохне" tag="format"/>
+		<text name="rw_ui_hasWithered" text="Поле %s засохло" tag="format"/>
+		<text name="rw_ui_currentYield" text="Поточна врожайність"/>
+		<text name="rw_ui_moisture" text="Вологість"/>
+		<text name="rw_ui_witherChance" text="Ймовірність в’янення"/>
+		<text name="rw_ui_retention" text="Утримання вологи"/>
+		<text name="rw_ui_idealMoisture" text="Ідеальна вологість"/>
+		<text name="rw_ui_perfectMoisture" text="Досконала вологість"/>
+		<text name="rw_ui_blizzard_coming" text="Насувається хуртовина"/>
+		<text name="rw_ui_blizzard_now" text="Хуртовина триває"/>
+		<text name="rw_ui_drought_coming" text="Насувається Засуха"/>
+		<text name="rw_ui_drought_now" text="Засуха триває"/>
+		<text name="rw_ui_snowExpected" text="%scm — очікується %scm" tag="format"/>
+		
+		<text name="rw_ui_amount" text="Сума"/>
+		<text name="rw_ui_requiredMoisture" text="Потрібна вологість"/>
+		<text name="rw_ui_needsTedding" text="Потребує ворушіння"/>
+		<text name="rw_ui_yes" text="Так"/>
+		<text name="rw_ui_no" text="Ні"/>
+		
+		<text name="input_Irrigation" text="Зрошення"/>
+		<text name="finance_irrigationUpkeep" text="Зрошення"/>
+		<text name="rw_ui_irrigation_start" text="Почати зрошення"/>
+		<text name="rw_ui_irrigation_stop" text="Зупинити зрошення"/>
+		<text name="rw_ui_pendingIrrigationCost" text="Очікувана вартість зрошення"/>
+		<text name="rw_ui_irrigationUpkeep" text="Утримання зрошення"/>
+		<text name="rw_ui_inactive" text="Неактивний"/>
+		<text name="rw_ui_active" text="Активний"/>
+		<text name="rw_ui_today" text="Сьогодні"/>
+		<text name="rw_ui_cellWidth" text="Ширина комірки"/>
+		<text name="rw_ui_cellHeight" text="Висота комірки"/>
+		<text name="rw_ui_ownedFields" text="Власні поля"/>
+		<text name="rw_ui_allFields" text="Усі поля"/>
+		
+		<!--  SETTINGS	-->		
+		<text name="rw_settings" text="Реалістична погода"/>
+		<text name="rw_settings_off" text="Вимк."/>
+		<text name="rw_settings_on" text="Увімк."/>
+		
+		<text name="rw_settings_witheringEnabled_label" text="В’янення врожаю"/>
+		<text name="rw_settings_witheringEnabled_tooltip_1" text="Посіви не в’януть від нестачі вологи"/>
+		<text name="rw_settings_witheringEnabled_tooltip_2" text="Посіви в’януть від нестачі вологи"/>
+		<text name="rw_settings_rebuildMoistureMap_label" text="Перебудувати карту вологості"/>
+		<text name="rw_settings_rebuildMoistureMap_tooltip" text="Видалити й перебудувати карту вологості з власними параметрами"/>
+		<text name="rw_settings_rebuildMoistureMap_text" text="Перебудувати карту вологості"/>
+		<text name="rw_settings_performanceIndex_label" text="Індекс продуктивності"/>
+		<text name="rw_settings_performanceIndex_tooltip" text="Збільште це значення для покращення продуктивності"/>
+		<text name="rw_settings_witheringChance_label" text="Ймовірність в’янення"/>
+		<text name="rw_settings_witheringChance_tooltip" text="Змінити ймовірність в’янення врожаю через нестачу вологи"/>
+		<text name="rw_settings_moistureGainModifier_label" text="Модифікатор приросту вологи"/>
+		<text name="rw_settings_moistureGainModifier_tooltip" text="Змінити кількість отриманої вологи"/>
+		
+		<text name="rw_settings_moistureLossModifier_label" text="Модифікатор втрати вологи"/>
+		<text name="rw_settings_moistureLossModifier_tooltip" text="Змінити кількість втраченої вологи"/>
+		
+		<text name="rw_settings_moistureOverlayBehaviour_label" text="Шар вологості"/>
+		<text name="rw_settings_moistureOverlayBehaviour_tooltip_1" text="Шар вологості ніколи не буде відображатися"/>
+		<text name="rw_settings_moistureOverlayBehaviour_tooltip_2" text="Шар вологості буде відображатися лише на полях"/>
+		<text name="rw_settings_moistureOverlayBehaviour_tooltip_3" text="Шар вологості буде відображатися завжди"/>
+		<text name="rw_settings_moistureOverlayBehaviour_texts_1" text="Вимк."/>
+		<text name="rw_settings_moistureOverlayBehaviour_texts_2" text="Обмежений"/>
+		<text name="rw_settings_moistureOverlayBehaviour_texts_3" text="Увімк."/>
+		
+		<text name="rw_settings_moistureFrameBehaviour_label" text="Екран вологості"/>
+		<text name="rw_settings_moistureFrameBehaviour_tooltip_1" text="Екран вологості в головному меню показуватиме всі комірки у вибраному полі"/>
+		<text name="rw_settings_moistureFrameBehaviour_tooltip_2" text="Екран вологості в головному меню показуватиме середні значення для кожного поля (краще для продуктивності)"/>
+		<text name="rw_settings_moistureFrameBehaviour_texts_1" text="Детальний"/>
+		<text name="rw_settings_moistureFrameBehaviour_texts_2" text="Обмежений"/>
+		
+		<text name="rw_settings_blizzardsEnabled_label" text="Хуртовини"/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_1" text="Хуртовини вимк."/>
+		<text name="rw_settings_blizzardsEnabled_tooltip_2" text="Хуртовини увімк."/>
+		
+		<text name="rw_settings_droughtsEnabled_label" text="Засухи"/>
+		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Засухи вимк."/>
+		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Засухи увімк."/>
+	</texts>
+</l10n>
