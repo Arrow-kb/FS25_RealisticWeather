@@ -94,15 +94,15 @@
 		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Sucha jsou vypnuta"/>
 		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Sucha jsou zapnuta"/>
 
-		<text name="rw_settings_grassMoistureGainModifier_label" text="Grass Moisture Gain Modifier"/>
-		<text name="rw_settings_grassMoistureGainModifier_tooltip" text="Change the amount of moisture gained for cut grass"/>
+		<text name="rw_settings_grassMoistureGainModifier_label" text="Modifikátor přírůstku vlhkosti trávy"/>
+		<text name="rw_settings_grassMoistureGainModifier_tooltip" text="Změna množství získané vlhkosti pro posečenou trávu"/>
 
-		<text name="rw_settings_grassMoistureLossModifier_label" text="Grass Moisture Loss Modifier"/>
-		<text name="rw_settings_grassMoistureLossModifier_tooltip" text="Change the amount of moisture lost for cut grass"/>
+		<text name="rw_settings_grassMoistureLossModifier_label" text="Modifikátor ztráty vlhkosti trávy"/>
+		<text name="rw_settings_grassMoistureLossModifier_tooltip" text="Změna množství ztracené vlhkosti u posečené trávy"/>
 
-		<text name="rw_settings_puddlesEnabled_label" text="Puddles"/>
-		<text name="rw_settings_puddlesEnabled_tooltip_1" text="Puddles are disabled"/>
-		<text name="rw_settings_puddlesEnabled_tooltip_2" text="Puddles are enabled"/>
+		<text name="rw_settings_puddlesEnabled_label" text="Kaluže"/>
+		<text name="rw_settings_puddlesEnabled_tooltip_1" text="Kaluže jsou vypnuté"/>
+		<text name="rw_settings_puddlesEnabled_tooltip_2" text="Kaluže jsou zapnuté"/>
 		
 	</texts>
 </l10n>
