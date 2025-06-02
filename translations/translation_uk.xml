@@ -39,13 +39,13 @@
 		<text name="rw_ui_cellHeight" text="Висота комірки"/>
 		<text name="rw_ui_ownedFields" text="Власні поля"/>
 		<text name="rw_ui_allFields" text="Усі поля"/>
-		<text name="rw_ui_teleport" text="Teleport"/>
+		<text name="rw_ui_teleport" text="Телепорт"/>
 
 
-		<text name="rw_contract_field_irrigation_title" text="Irrigation"/>
-		<text name="rw_contract_field_irrigation_description" text="Irrigate the field to increase the average moisture to the target level"/>
-		<text name="rw_contract_field_irrigation_currentAverage" text="Average moisture"/>
-		<text name="rw_contract_field_irrigation_targetAverage" text="Target average moisture"/>
+		<text name="rw_contract_field_irrigation_title" text="Зрошення"/>
+		<text name="rw_contract_field_irrigation_description" text="Зрошуйте поле, щоб підвищити середній рівень вологості до цільового рівня"/>
+		<text name="rw_contract_field_irrigation_currentAverage" text="Середня вологість"/>
+		<text name="rw_contract_field_irrigation_targetAverage" text="Цільова середня вологість"/>
 
 		<!--  SETTINGS	-->
 		<text name="rw_settings" text="Реалістична погода"/>
@@ -90,21 +90,21 @@
 		<text name="rw_settings_droughtsEnabled_tooltip_1" text="Засухи вимк."/>
 		<text name="rw_settings_droughtsEnabled_tooltip_2" text="Засухи увімк."/>
 
-		<text name="rw_settings_grassMoistureGainModifier_label" text="Grass Moisture Gain Modifier"/>
-		<text name="rw_settings_grassMoistureGainModifier_tooltip" text="Change the amount of moisture gained for cut grass"/>
+		<text name="rw_settings_grassMoistureGainModifier_label" text="Модифікатор набору вологості трави"/>
+		<text name="rw_settings_grassMoistureGainModifier_tooltip" text="Змінити кількість вологи, яку отримує скошена трава"/>
 
-		<text name="rw_settings_grassMoistureLossModifier_label" text="Grass Moisture Loss Modifier"/>
-		<text name="rw_settings_grassMoistureLossModifier_tooltip" text="Change the amount of moisture lost for cut grass"/>
+		<text name="rw_settings_grassMoistureLossModifier_label" text="Модифікатор втрати вологості трави"/>
+		<text name="rw_settings_grassMoistureLossModifier_tooltip" text="Змінити кількість вологи, яку втрачає скошена трава"/>
 
-		<text name="rw_settings_puddlesEnabled_label" text="Puddles"/>
-		<text name="rw_settings_puddlesEnabled_tooltip_1" text="Puddles are disabled"/>
-		<text name="rw_settings_puddlesEnabled_tooltip_2" text="Puddles are enabled"/>
+		<text name="rw_settings_puddlesEnabled_label" text="Калюжі"/>
+		<text name="rw_settings_puddlesEnabled_tooltip_1" text="Калюжі вимкнені"/>
+		<text name="rw_settings_puddlesEnabled_tooltip_2" text="Калюжі ввімкнено"/>
 
-		<text name="rw_settings_fireEnabled_label" text="Crop Fires"/>
-		<text name="rw_settings_fireEnabled_tooltip_1" text="Crop fires are disabled"/>
-		<text name="rw_settings_fireEnabled_tooltip_2" text="Crop fires are enabled"/>
+		<text name="rw_settings_fireEnabled_label" text="Пожежі посівів"/>
+		<text name="rw_settings_fireEnabled_tooltip_1" text="Пожежі посівів вимкнені"/>
+		<text name="rw_settings_fireEnabled_tooltip_2" text="Включено пожежі посівів"/>
 
-		<text name="rw_settings_moistureYieldFactor_label" text="Moisture Yield Factor"/>
-		<text name="rw_settings_moistureYieldFactor_tooltip" text="Change the harvest yield added by moisture"/>
+		<text name="rw_settings_moistureYieldFactor_label" text="Коефіцієнт вологості"/>
+		<text name="rw_settings_moistureYieldFactor_tooltip" text="Змінити приріст врожайності, що додається завдяки вологості"/>
 	</texts>
 </l10n>
